@@ -1,0 +1,21 @@
+/* .App {
+  text-align: center;
+} */
+
+.screen{
+  display: flex;
+  flex-direction: row;
+}
+
+.rts{
+  flex:1;
+  margin: 0;
+}
+
+.lts{
+  flex:3.5;
+}
+
+.App{
+  background-color:  #EEEEEE;
+}

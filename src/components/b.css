@@ -1,0 +1,64 @@
+.btm{
+    margin: 40px 0 0 20px;
+    height: 300px;
+    width: 90%;
+    background-color: white;
+    padding: 25px;
+    border-radius: 10px;
+    position: relative;
+}
+table {
+    border-collapse: collapse;
+    width: 80%;
+    margin-bottom: 1rem;
+    background-color: #fff;
+    color: #333;
+    border: 1px solid #ddd;
+    border: none;
+    border-radius: 20px;
+  }
+
+  
+  th,
+  td {
+    padding: 0.75rem;
+    text-align: left;
+    vertical-align: top;
+    border-top: 1px solid #ddd;
+  }
+  
+  th {
+    background-color: #C9EEFF;
+    font-weight: bold;
+    border-bottom: 2px solid #ddd;
+  }
+
+  .g{
+    height: 1px;
+    width: 1px;
+    background-color: white;
+    border: none;
+  }
+
+  .btns{
+    border: none;
+    background-color: white;
+    height: 1px;
+    width: 1px;
+  }
+
+  .op{
+    border:none;
+    background-color: #EEEEEE ;
+    height: 45px;
+    width: 12%;
+    border-radius: 10px;
+    margin-left: 20px;
+    padding: 10px;
+    color: gray;
+}
+
+.btns img{
+  height: 25px;
+  width: 25px;
+}

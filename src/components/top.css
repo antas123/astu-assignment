@@ -1,0 +1,48 @@
+.top{
+    margin: 40px 0 0 20px;
+    height: 300px;
+    width: 90%;
+    background-color: white;
+    padding: 25px;
+    border-radius: 10px;
+    position: relative;
+}
+
+.top p{
+    margin-bottom: 30px;
+}
+.lin{
+    border:none;
+    background-color: #EEEEEE ;
+    height: 45px;
+    width: 35%;
+    border-radius: 10px;
+    padding: 10px;
+}
+.op{
+    border:none;
+    background-color: #EEEEEE ;
+    height: 45px;
+    width: 12%;
+    border-radius: 10px;
+    margin-left: 20px;
+    padding: 10px;
+    color: gray;
+}
+.bt{
+   margin-left:900px ;
+   margin-top: -20px;
+}
+
+.i{
+    height: 20px;
+    width: 20px;
+    position: absolute;
+    top: 20px;
+    left :1000px;
+}
+
+.am{
+   color: blue;
+   margin-top: 10px;
+}
